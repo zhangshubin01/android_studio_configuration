@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
+      <mapping pattern="bean" type="PLAIN_TEXT" />
+      <mapping ext="ogg" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
+      <mapping ext="ap_" type="PLAIN_TEXT" />
+      <mapping ext="emd" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
