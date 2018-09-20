@@ -1,9 +1,0 @@
-<application>
-  <component name="ParameterNameHintsSettings">
-    <blacklists>
-      <blacklist language="Java">
-        <added pattern="com.pad.base.utils.CalculationUtils.parseDecimalDouble2(x)" />
-      </blacklist>
-    </blacklists>
-  </component>
-</application>
