@@ -1,0 +1,18 @@
+<templateSet group="myComment">
+  <template name="mclass" value="/**&#10; *@author $user$&#10; *@time $date$&#10; *@email shubin.zhang@ucarinc.com&#10; *@tel 3487&#10; *@desc $desc$&#10; */" description="my class类注释" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="mmethod" value="/**&#10; *@author $user$&#10; *@time $date$&#10; *@desc $desc$&#10; */" description="my method 方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>

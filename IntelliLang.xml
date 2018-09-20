@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="Darcs" injector-id="xml">
+      <display-name>application/@debuggable</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("debuggable")).withNamespace(string().equalTo("http://schemas.android.com/apk/res/android")).withParent(xmlTag().withLocalName(string().equalTo("application")))]]></place>
+    </injection>
+  </component>
+</application>
