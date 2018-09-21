@@ -15,4 +15,13 @@
       <option name="JAVA_DECLARATION" value="true" />
     </context>
   </template>
+  <template name="pv" value="/**&#10; *@author $user$&#10; *@time $date$&#10; *@desc $desc$&#10; */&#10;public void $cast$(){&#10;&#10;}" description="空参方法生成" toReformat="false" toShortenFQNames="true">
+    <variable name="user" expression="user()" defaultValue="" alwaysStopAt="false" />
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="false" />
+    <variable name="desc" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="cast" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
 </templateSet>
