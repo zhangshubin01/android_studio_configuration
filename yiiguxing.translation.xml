@@ -6,6 +6,12 @@
     </histories>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
   </component>
 </application>
