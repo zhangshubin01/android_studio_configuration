@@ -4,6 +4,9 @@
       <language-pair source="ENGLISH" target="CHINESE" />
     </option>
     <histories>
+      <item value="Guarded by this." />
+      <item value="@SuppressWarnings(&quot;CloneDoesntCallSuperClone&quot;) // We are a final type &amp; this saves clearing state." />
+      <item value="An HTTP &amp; HTTP/2 client for Android and Java applications. For more information see [the website][1] and [the wiki][2]." />
       <item value="the type of keys maintained by this map" />
       <item value="bundle" />
       <item value="String" />
@@ -19,8 +22,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
       </map>
     </option>
   </component>
