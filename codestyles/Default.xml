@@ -96,7 +96,8 @@
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <codeStyleSettings language="JAVA">
-    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
