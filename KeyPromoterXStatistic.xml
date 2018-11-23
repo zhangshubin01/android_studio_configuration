@@ -14,7 +14,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>31</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -22,7 +22,15 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>5</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Generate...">
+        <Item>
+          <IdeaActionID>Generate</IdeaActionID>
+          <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
+          <Description>Generate...</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -63,6 +71,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Toggle Line Breakpoint">
+        <Item>
+          <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
+          <ShortCut>'⌘F8'</ShortCut>
+          <Description>Toggle Line Breakpoint</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
