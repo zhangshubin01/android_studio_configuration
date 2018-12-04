@@ -4,6 +4,7 @@
       <language-pair source="ENGLISH" target="CHINESE" />
     </option>
     <histories>
+      <item value="can not cast to int" />
       <item value="ssign Parent" />
       <item value="Guarded by this." />
       <item value="@SuppressWarnings(&quot;CloneDoesntCallSuperClone&quot;) // We are a final type &amp; this saves clearing state." />
@@ -23,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
