@@ -14,7 +14,15 @@
           <IdeaActionID>Vcs.ShowMessageHistory</IdeaActionID>
           <ShortCut>'⌃M' or '⌘E'</ShortCut>
           <Description>Commit Message History</Description>
-          <Count>29</Count>
+          <Count>30</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Commit message">
+        <Item>
+          <IdeaActionID>git-commit-message-plugin.GetCommitMessageAction</IdeaActionID>
+          <ShortCut>'⌘K'</ShortCut>
+          <Description>Commit message</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -22,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -46,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>942</Count>
+          <Count>966</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -54,7 +62,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -78,7 +86,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>30</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -94,7 +102,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'⌥⌘B' or '⌥⌘Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Logcat">
@@ -222,7 +230,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
