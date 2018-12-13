@@ -62,7 +62,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>29</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -199,6 +199,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>109</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'⌘7'</ShortCut>
+          <Description>Structure</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
