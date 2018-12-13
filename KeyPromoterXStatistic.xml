@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>998</Count>
+          <Count>1020</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -78,7 +78,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>145</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -111,6 +111,14 @@
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
           <Count>88</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Make Project">
+        <Item>
+          <IdeaActionID>MakeGradleProject</IdeaActionID>
+          <ShortCut>'⌘F9'</ShortCut>
+          <Description>Make Project</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
