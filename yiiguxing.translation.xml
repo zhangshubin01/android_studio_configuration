@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="lastLanguages">
-      <language-pair source="CHINESE" target="CHINESE" />
+      <language-pair source="CHINESE" target="ENGLISH" />
     </option>
     <histories>
       <item value="can not cast to int" />
@@ -25,7 +25,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>
