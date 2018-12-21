@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1437</Count>
+          <Count>1524</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>44</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -78,7 +78,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>177</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -86,7 +86,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>67</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -246,7 +246,7 @@
           <IdeaActionID>$EditorTranslateAction</IdeaActionID>
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
-          <Count>1</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
@@ -254,7 +254,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
