@@ -4,8 +4,8 @@
       <language-pair source="CHINESE" target="ENGLISH" />
     </option>
     <histories>
-      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0." />
+      <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0" />
       <item value="Sets the current item w/o animation. Does nothing when index is wrong." />
       <item value="Attempt to invoke virtual method 'void android.widget.EditText.setText(java.lang.CharSequence)' on a null object reference" />
       <item value="INVISIBLE" />
@@ -34,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="32" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
