@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1906</Count>
+          <Count>1909</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>529</Count>
+          <Count>532</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
