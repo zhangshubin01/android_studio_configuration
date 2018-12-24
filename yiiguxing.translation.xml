@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="lastLanguages">
-      <language-pair source="CHINESE" target="ENGLISH" />
+      <language-pair source="ENGLISH" target="CHINESE" />
     </option>
     <histories>
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0." />
@@ -34,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>
