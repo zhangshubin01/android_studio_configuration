@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>99</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2085</Count>
+          <Count>2089</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -158,7 +158,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>311</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>632</Count>
+          <Count>640</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -214,7 +214,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>278</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -270,7 +270,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>74</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
