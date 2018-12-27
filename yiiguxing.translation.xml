@@ -4,6 +4,7 @@
       <language-pair source="CHINESE" target="ENGLISH" />
     </option>
     <histories>
+      <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="Attempt to invoke virtual method 'java.lang.Integer com.zuche.csms.bean.TakeCarOrderInfoDTO.getPreDepositType()' on a null object reference" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0." />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 5.0" />
@@ -35,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="36" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="37" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
