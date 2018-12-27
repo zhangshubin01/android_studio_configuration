@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -54,7 +54,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2165</Count>
+          <Count>2174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -86,7 +86,7 @@
           <IdeaActionID>Generate</IdeaActionID>
           <ShortCut>'⌘N' or '⌃⏎'</ShortCut>
           <Description>Generate...</Description>
-          <Count>91</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -182,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>697</Count>
+          <Count>700</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
