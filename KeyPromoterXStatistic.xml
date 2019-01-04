@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>141</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>801</Count>
+          <Count>803</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
