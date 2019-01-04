@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>143</Count>
+          <Count>144</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2422</Count>
+          <Count>2429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>151</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -174,7 +174,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>419</Count>
+          <Count>428</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -198,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>809</Count>
+          <Count>818</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -230,7 +230,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>349</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -270,7 +270,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>186</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -286,7 +286,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>97</Count>
+          <Count>98</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
