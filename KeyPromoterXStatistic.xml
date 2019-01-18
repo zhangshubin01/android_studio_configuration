@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit Message History">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>175</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2644</Count>
+          <Count>2645</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
-          <Count>44</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find">
@@ -86,7 +86,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'⌥F7'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>216</Count>
+          <Count>217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -126,7 +126,7 @@
           <IdeaActionID>ActivateLogcatToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Logcat</Description>
-          <Count>196</Count>
+          <Count>197</Count>
         </Item>
       </Statistic>
       <Statistic Action="Make Project">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>928</Count>
+          <Count>935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -294,7 +294,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>116</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
