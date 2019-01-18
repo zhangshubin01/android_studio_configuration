@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>913</Count>
+          <Count>916</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
@@ -294,7 +294,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>104</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
