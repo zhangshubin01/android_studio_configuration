@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B' or '⌘Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2619</Count>
+          <Count>2623</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'CarOperate:app [assembleDebug]'">
@@ -206,7 +206,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'app'</Description>
-          <Count>916</Count>
+          <Count>921</Count>
         </Item>
       </Statistic>
       <Statistic Action="Scratch File">
