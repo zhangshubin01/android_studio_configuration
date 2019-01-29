@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to read from null array" />
       <item value="has text relocations" />
       <item value="[2] MarkerLog.finish: (+0 ) [ 2] add-to-queue&#10;2019-01-29 11:28:12.419 18934-18934/com.zuche.cartvmapi D/Volley: [2] MarkerLog.finish: (+1 ) [18832] network-queue-take&#10;2019-01-29 11:28:12.420 18934-18934/com.zuche.cartvmapi D/Volley: [2] MarkerLog.finish: (+187 ) [18832] network-http-complete&#10;2019-01-29 11:28:12.421 18934-18934/com.zuche.cartvmapi D/Volley: [2] MarkerLog.finish: (+8 ) [18832] network-parse-complete&#10;2019-01-29 11:28:12.421 18934-18934/com.zuche.cartvmapi D/Volley: [2] MarkerLog.finish: (+0 ) [18832] post-response&#10;2019-01-29 11:28:12.422 18934-18934/com.zuche.cartvmapi D/Volley: [2] MarkerLog.finish: (+8 ) [ 2] done" />
       <item value="The application may be doing too much work on its main thread" />
@@ -38,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>
