@@ -50,14 +50,18 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="foldOriginal" value="true" />
     <option name="googleTranslateSettings">
       <google-translate>
         <option name="useTranslateGoogleCom" value="true" />
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
     <option name="overrideFont" value="true" />
     <option name="primaryFontFamily" value="Al Bayan" />
+    <option name="selectTargetLanguageBeforeReplacement" value="true" />
     <option name="translator" value="ai.youdao" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
