@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="米" />
+      <item value="公里" />
       <item value="get Friendly Length" />
       <item value="Gradle" />
       <item value="No address associated with hostname" />
@@ -47,7 +49,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="ENGLISH" value="52" />
       </map>
     </option>
   </component>
