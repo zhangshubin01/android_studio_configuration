@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Received status code 502" />
       <item value="米" />
       <item value="公里" />
       <item value="get Friendly Length" />
@@ -48,8 +49,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
       </map>
     </option>
   </component>
