@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="running second layout pass" />
       <item value="Received status code 502" />
       <item value="米" />
       <item value="公里" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
       </map>
     </option>
   </component>
