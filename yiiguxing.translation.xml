@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Store List" />
+      <item value="Gradle sync failed: Connection refused (Connection refused)&#10;&#9;&#9;&#9;Consult IDE log for more details (Help | Show Log) (248 ms)" />
       <item value="Syncing only active variant&#10;&#9;&#9;&#9;You can disable this experimental feature from&#10;&#9;&#9;&#9;File → Settings → Experimental → Gradle → Only sync the active variant" />
       <item value="during layout: running second layout pass" />
       <item value="path Remain Distance" />
@@ -49,12 +51,11 @@
       <item value="TYPE VALIDATE PICKUP" />
       <item value="TYPE CONTRACT PROXY" />
       <item value="Purchase exclusive service" />
-      <item value="Unparseable date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="58" />
+        <entry key="ENGLISH" value="59" />
       </map>
     </option>
   </component>
