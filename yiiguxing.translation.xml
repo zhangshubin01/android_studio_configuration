@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lombok Requires Annotation Processing&#10;&#9;&#9;&#9;Annotation processing seems to be disabled for the project &quot;cartvmapi&quot;.&#10;&#9;&#9;&#9;For the plugin to function correctly, please enable it under&#10;&#9;&#9;&#9;&quot;Settings &gt; Build &gt; Compiler &gt; Annotation Processors&quot;" />
+      <item value="Syncing only active variant&#10;&#9;&#9;&#9;You can disable this experimental feature from&#10;&#9;&#9;&#9;File → Settings → Experimental → Gradle → Only sync the active variant" />
+      <item value="Gradle sync failed: Could not run build action using Gradle installation '/Applications/AndroidStudio.app/Contents/gradle/gradle-4.6'.&#10;&#9;&#9;&#9;Consult IDE log for more details (Help | Show Log) (3 m 45 s 579 ms)" />
+      <item value="Connection refused (Connection refused)" />
       <item value="Short Lease All Dept List" />
       <item value="Query Store List" />
       <item value="Gradle sync failed: Connection refused (Connection refused)&#10;&#9;&#9;&#9;Consult IDE log for more details (Help | Show Log) (248 ms)" />
-      <item value="Syncing only active variant&#10;&#9;&#9;&#9;You can disable this experimental feature from&#10;&#9;&#9;&#9;File → Settings → Experimental → Gradle → Only sync the active variant" />
       <item value="during layout: running second layout pass" />
       <item value="path Remain Distance" />
       <item value="running second layout pass" />
@@ -48,14 +51,11 @@
       <item value="Is network available boolean." />
       <item value="/** * Set the activity content to an explicit view. This view is placed * directly into the activity's view hierarchy. It can itself be a complex * view hierarchy. When calling this method, the layout parameters of the * specified view are ignored. Both the width and the height of the view are * set by default to {@link ViewGroup.LayoutParams#MATCH_PARENT}. To use * your own layout parameters, invoke * {@link #setContentView(android.view.View, android.view.ViewGroup.LayoutParams)} * instead. * * @param view The desired content to display. * * @see #setContentView(int) * @see #setContentView(android.view.View, android.view.ViewGroup.LayoutParams) */" />
       <item value="Log File Util" />
-      <item value="INTENT INSPECTID" />
-      <item value="TYPE VALIDATE PICKUP" />
-      <item value="TYPE CONTRACT PROXY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
       </map>
     </option>
   </component>
